@@ -1,4 +1,4 @@
-# Open Bot Brain Project
+# Open Bot Brain Project ![Open Bot Brain](../images/OBB.png){ width=10% }
 
 ## What is it?
 
