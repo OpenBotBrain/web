@@ -83,7 +83,7 @@ in order to be suitable for different projects.
 
 ...
 
-[^1] OBB uses an MCU by [ST](http://www.st.com), concretely the
+[^1]: OBB uses an MCU by [ST](http://www.st.com), concretely the
 [STM32L496ZG](https://www.st.com/en/microcontrollers-microprocessors/stm32l496zg.html)
 that was chosen because it has enough peripherals (GPIO, PWM, Timers,
 etc) to support all the Mindstorm devices and it was available when we
