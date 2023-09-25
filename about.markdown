@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**TL;DR:** OpenBotBrain is a project to develop hardware and software to control
+n**TL;DR:** OpenBotBrain is a project to develop hardware and software to control
 Mindstorm™️ Lego® motors and sensors. It is developed on
 [GitHub](https://github.com/openbotbrain) as open hardware and open
 source software.
@@ -82,3 +82,9 @@ Pi is required to support the LeJOS (or a LeJOS-like) environment,
 which is one of the motivating requirements for the project. However,
 as mentioned before the project is designed with versatility in mind
 in order to be suitable for different projects.
+
+[^1]: OBB uses an MCU by [ST](http://www.st.com), concretely the
+[STM32L496ZG](https://www.st.com/en/microcontrollers-microprocessors/stm32l496zg.html)
+that was chosen because it has enough peripherals (GPIO, PWM, Timers,
+etc) to support all the Mindstorm devices and it was available when we
+designed the board during the post-pandemic semiconductor shortage.
