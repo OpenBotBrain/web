@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-n**TL;DR:** OpenBotBrain is a project to develop hardware and software to control
+**TL;DR:** OpenBotBrain is a project to develop hardware and software to control
 Mindstorm™️ Lego® motors and sensors. It is developed on
 [GitHub](https://github.com/openbotbrain) as open hardware and open
 source software.
